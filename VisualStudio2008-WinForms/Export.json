@@ -1,0 +1,62 @@
+[
+  {
+    "$type": "Draw.RectangleShape, Draw",
+    "Rectangle": {
+      "Location": {
+        "IsEmpty": false,
+        "X": 531.0,
+        "Y": 286.0
+      },
+      "Size": "100, 200",
+      "X": 531.0,
+      "Y": 286.0,
+      "Width": 100.0,
+      "Height": 200.0,
+      "Left": 531.0,
+      "Top": 286.0,
+      "Right": 631.0,
+      "Bottom": 486.0,
+      "IsEmpty": false
+    },
+    "Width": 100.0,
+    "Height": 200.0,
+    "Location": {
+      "IsEmpty": false,
+      "X": 531.0,
+      "Y": 286.0
+    },
+    "FillColor": "GhostWhite",
+    "BorderSize": 0,
+    "BorderColor": "Black"
+  },
+  {
+    "$type": "Draw.src.Model.EllipseShape, Draw",
+    "Rectangle": {
+      "Location": {
+        "IsEmpty": false,
+        "X": 548.0,
+        "Y": 150.0
+      },
+      "Size": "100, 200",
+      "X": 548.0,
+      "Y": 150.0,
+      "Width": 100.0,
+      "Height": 200.0,
+      "Left": 548.0,
+      "Top": 150.0,
+      "Right": 648.0,
+      "Bottom": 350.0,
+      "IsEmpty": false
+    },
+    "Width": 100.0,
+    "Height": 200.0,
+    "Location": {
+      "IsEmpty": false,
+      "X": 548.0,
+      "Y": 150.0
+    },
+    "FillColor": "GhostWhite",
+    "BorderSize": 0,
+    "BorderColor": "Black"
+  }
+]
